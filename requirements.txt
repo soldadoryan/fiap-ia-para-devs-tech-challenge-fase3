@@ -1,0 +1,8 @@
+langchain-core==1.7.6
+langchain-community==0.4.2
+langchain-text-splitters==1.1.3
+langchain-ollama==1.1.0
+langgraph==1.2.20
+faiss-cpu==1.15.1
+tqdm>=4.66,<5
+grandalf==0.8
